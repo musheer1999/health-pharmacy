@@ -1,0 +1,16 @@
+img{
+
+    align-self: center;
+    border-radius: 50%;
+    height: 30%;
+    width: 30%;
+    
+}
+
+img:hover{
+    box-shadow: lightseagreen 0px 22px 70px 4px;
+    cursor: pointer;
+}
+.developers{
+    text-align: center;
+}
